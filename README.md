@@ -25,7 +25,7 @@ A simple implementation of a proxy server that uses the Pokémon API.
 ├── controllers
 │   ├── pokemonController.js # Handles requests and manages caching
 ├── routes
-|   ├── pokemonRouter.js # Handles routing
+│   ├── pokemonRouter.js # Handles routing
 ├── cache                 # Directory to store cached data
 ├── package.json
 └── README.md
